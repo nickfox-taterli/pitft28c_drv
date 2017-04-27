@@ -1,2 +1,7 @@
-# pitft28c_drv
-PiTFT 28 auto-script for 2017-04-10-raspbian-jessie
+# How to ...
+
+git clone https://github.com/nickfox-taterli/pitft28c_drv
+
+cd pitft28c_drv
+
+./install.sh
